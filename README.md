@@ -67,14 +67,14 @@
 
 ### 🚀 Featured Projects
 
-#### 👁️ [Construction Site PPE Compliance Detection](https://github.com/Saravanan2512)
+#### 👁️ [Construction Site PPE Compliance Detection(https://github.com/Saravanan2512/ppe-detection-reasoning-api)
 Computer vision system that detects safety-equipment compliance on construction sites.
 - Fine-tuned **RT-DETR** to detect Hardhat, Safety Vest, and violation classes (NO-Hardhat, NO-Mask, NO-Safety Vest)
 - Built a **FastAPI** inference service for image-based detection with structured compliance results
 - Containerized with **Docker** for deployment
 - `Python` `RT-DETR` `Ultralytics` `OpenCV` `FastAPI` `Docker`
 
-#### ⚖️ [Legal RAG – Indian Legal Research System](https://github.com/Saravanan2512)
+#### ⚖️ [Legal RAG – Indian Legal Research System](https://github.com/Saravanan2512/legal-rag)
 AI-powered retrieval system for Indian legal provisions using hybrid search.
 - Structured corpus of **1,000+ IPC and BNS provisions** with section-level metadata
 - Hybrid retrieval combining **BM25 + semantic search** with reranking
@@ -82,7 +82,7 @@ AI-powered retrieval system for Indian legal provisions using hybrid search.
 - Evidence-based, grounded LLM responses via **Qdrant** vector indexing
 - `Python` `BM25` `Qdrant` `Sentence Transformers` `RAG` `FastAPI`
 
-#### 📔 [EchoJournal – AI-Powered Personal Journal](https://github.com/Saravanan2512)
+#### 📔 [EchoJournal – AI-Powered Personal Journal](https://github.com/Saravanan2512/EchoJournal)
 AI journaling app with secure, personalized reflection features.
 - Google OAuth with **UID-scoped Firestore** data isolation
 - **Gemini API** integration for sentiment analysis, theme extraction, and multi-turn "Ask Past Me" conversations
