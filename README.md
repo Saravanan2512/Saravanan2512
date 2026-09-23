@@ -1,154 +1,120 @@
-# Hi, I'm Saravanan G 👋
+<h1 align="center">Hi 👋, I'm Saravanan G</h1>
+<h3 align="center">AI/ML Engineer | Computer Vision | NLP & Generative AI | Python</h3>
 
-### AI/ML Engineer | Computer Vision | Machine Learning | Python
-
-I'm a **B.Tech Artificial Intelligence and Data Science student** focused on building practical AI/ML systems using **Python, Machine Learning, Computer Vision, NLP, and Generative AI**.
-
-I enjoy turning ML models into usable applications through **FastAPI, Docker, and REST APIs**.
+<p align="center">
+  <a href="https://linkedin.com/in/saravanang25" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:g.saravanan2512@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Saravanan2512" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧠 What I Work With
+### 🚀 About Me
 
-**Machine Learning**
+- 🎓 B.Tech in **Artificial Intelligence and Data Science**, Saveetha Engineering College, Chennai (2023–Present)
+- 🧠 I build practical AI/ML systems spanning **Computer Vision, NLP, and Generative AI**
+- ⚙️ I turn models into real applications using **FastAPI, Docker, and REST APIs**
+- 🎯 Career path: **Computer Vision → Edge AI → Machine Learning → AI Systems**
+- 💬 Ask me about: RT-DETR, RAG pipelines, vector search, and object detection
+- 📫 Reach me: **g.saravanan2512@gmail.com**
 
-* Supervised & Unsupervised Learning
-* Classification & Regression
-* Feature Engineering
-* Model Evaluation
-* Scikit-learn
+---
 
-**Deep Learning & Computer Vision**
+### 🧠 Tech Stack
 
-* PyTorch
-* CNNs
-* Object Detection
-* RT-DETR
-* OpenCV
-* Image Processing
-
-**NLP & Generative AI**
-
-* RAG
-* BM25
-* Semantic Search
-* Embeddings
-* Vector Databases
-* LLM Applications
+**Machine Learning & AI**
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square" />
+</p>
 
 **Backend & Deployment**
-
-* FastAPI
-* REST APIs
-* Docker
-* Git & GitHub
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+</p>
 
 **Data & Databases**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
 
-* NumPy
-* Pandas
-* MySQL
-* PostgreSQL
-* Qdrant
-* Firebase Firestore
-
----
-
-## 🚀 Featured Projects
-
-### 👁️ Construction Site PPE Compliance Detection
-
-Computer vision system for detecting PPE compliance in construction environments.
-
-**Tech:** Python · RT-DETR · Ultralytics · OpenCV · FastAPI · Docker
-
-* Detects Hardhat, Safety Vest and PPE violations
-* Uses RT-DETR for object detection
-* Provides image-based inference through FastAPI
-* Containerized using Docker
-
-🔗 [View Repository](https://github.com/Saravanan2512)
+**Languages & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### ⚖️ Legal RAG – Indian Legal Research System
+### 🚀 Featured Projects
 
-AI-powered legal retrieval system designed to retrieve relevant Indian legal provisions using hybrid search.
+#### 👁️ [Construction Site PPE Compliance Detection](https://github.com/Saravanan2512)
+Computer vision system that detects safety-equipment compliance on construction sites.
+- Fine-tuned **RT-DETR** to detect Hardhat, Safety Vest, and violation classes (NO-Hardhat, NO-Mask, NO-Safety Vest)
+- Built a **FastAPI** inference service for image-based detection with structured compliance results
+- Containerized with **Docker** for deployment
+- `Python` `RT-DETR` `Ultralytics` `OpenCV` `FastAPI` `Docker`
 
-**Tech:** Python · BM25 · Qdrant · Sentence Transformers · RAG · FastAPI
+#### ⚖️ [Legal RAG – Indian Legal Research System](https://github.com/Saravanan2512)
+AI-powered retrieval system for Indian legal provisions using hybrid search.
+- Structured corpus of **1,000+ IPC and BNS provisions** with section-level metadata
+- Hybrid retrieval combining **BM25 + semantic search** with reranking
+- Temporal filtering to resolve the **IPC → BNS** legal transition
+- Evidence-based, grounded LLM responses via **Qdrant** vector indexing
+- `Python` `BM25` `Qdrant` `Sentence Transformers` `RAG` `FastAPI`
 
-* 1,000+ IPC and BNS provisions
-* BM25 + semantic search
-* Hybrid retrieval and reranking
-* Temporal filtering for IPC → BNS transition
-* Evidence-based LLM responses
-
-🔗 [View Repository](https://github.com/Saravanan2512)
-
----
-
-### 📔 EchoJournal – AI-Powered Personal Journal
-
-AI journaling application with personalized and authenticated journal retrieval.
-
-**Tech:** Python · Gemini API · Firebase Authentication · Firestore
-
-* AI-powered sentiment and theme analysis
-* Context-aware conversations
-* UID-based data isolation
-* Authenticated journal retrieval
-
-🔗 [View Repository](https://github.com/Saravanan2512)
+#### 📔 [EchoJournal – AI-Powered Personal Journal](https://github.com/Saravanan2512)
+AI journaling app with secure, personalized reflection features.
+- Google OAuth with **UID-scoped Firestore** data isolation
+- **Gemini API** integration for sentiment analysis, theme extraction, and multi-turn "Ask Past Me" conversations
+- Authorization checks preventing cross-user data access
+- `Python` `Gemini API` `Firebase Auth` `Firestore` `Google Cloud Run`
 
 ---
 
-## 🛠️ Current Focus
-
-I'm currently strengthening my skills in:
-
-* 🤖 Machine Learning
-* 👁️ Computer Vision
-* 🧠 Deep Learning
-* ⚙️ MLOps & Model Deployment
-* 🚀 Edge AI
-* 🔎 Retrieval-Augmented Generation
-* 🐍 Python
+### 🛠️ Currently Learning
+`Advanced Computer Vision` · `Deep Learning with PyTorch` · `ML Model Optimization` · `MLOps Fundamentals` · `Edge AI` · `Docker & Deployment`
 
 ---
 
-## 🎯 Career Goal
+### 📊 GitHub Stats
 
-I'm working toward a career as an **AI/ML Engineer**, with a particular interest in:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saravanan2512&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan2512&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-**Computer Vision → Edge AI → Machine Learning → AI Systems**
-
----
-
-## 📚 Currently Learning
-
-* Advanced Computer Vision
-* Deep Learning with PyTorch
-* ML Model Optimization
-* MLOps fundamentals
-* Docker & deployment
-* Edge AI concepts
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanan2512&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📊 GitHub Activity
+### 📫 Connect With Me
 
-![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saravanan2512\&show_icons=true\&theme=default)
+<p align="center">
+  <a href="https://linkedin.com/in/saravanang25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:g.saravanan2512@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Saravanan2512"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan2512\&layout=compact\&theme=default)
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [Saravanan G](https://www.linkedin.com/in/saravang25/)
-* 💻 GitHub: [Saravanan2512](https://github.com/Saravanan2512)
-* 📧 Email: [g.saravanan2512@gmail.com](mailto:g.saravanan2512@gmail.com)
-
----
-
-### 💡 "Build → Learn → Deploy → Improve"
+<p align="center"><i>"Build → Learn → Deploy → Improve"</i></p>
