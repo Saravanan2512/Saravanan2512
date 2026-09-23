@@ -96,18 +96,6 @@ AI journaling app with secure, personalized reflection features.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saravanan2512&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan2512&layout=compact&theme=tokyonight" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanan2512&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
